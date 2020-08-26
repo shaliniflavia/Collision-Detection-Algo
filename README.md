@@ -1,2 +1,2 @@
-# Collision-Detection-Algo
-To detect collision between two ellipses
+# p5.play-boilerplate
+Boiler plate for p5.play
